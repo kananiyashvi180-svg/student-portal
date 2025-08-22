@@ -5,3 +5,6 @@ function login() {
 function registerCourse() {
   console.log('Course registration functionality added');
 }
+function displayGrades() {
+  console.log('Displaying grades for user');
+}
